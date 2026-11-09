@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://lo1.in/tha/thairath1.png",ThairathTV HD(3BB)
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://iptv36.vercel.app/logo/amarin.png" ,AmarinTV HD(3BB)
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0018.png",CH7 HD(3BB)
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
+
+#EXTINF:-1group-title="Digital TV"tvg-logo="https://www.i-pic.info/i/9OYN744801.png" ,NBT HD
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w1564947865_b3128000.m3u8
+
+#EXTINF:-1  group-title="Digital TV" tvg-logo="https://lo1.in/tha/th1.png",THAI PBS HD
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
+#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/wOIaqg7.png", 5 HD
+https://nodelive.thaitv5hd.com/hls/tv5hdlive-for-thaitv5hdcom/stream_0.m3u8
+ 
+#EXTINF:-1  group-title="Digital TV" tvg-logo="https://iptv36.vercel.app/logo/workpoint.png",WORKPOINT
+https://cco-streamer2.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
+ 
+#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.postimg.cc/K8QNxKDf/images-(9).jpg",TRUE24
+https://iptv36.vercel.app/api/true.m3u8?channel=true4u
+ 
+#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/uARba6N.png",GMM-25
+https://fastly.live.brightcove.com/6392745120112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTI3NDUxMjAxMTIifQ.w9Q_oqsE_WFClGF5tLVDtHnz5zfHHgNpumxVYNx4yYw/playlist-hls.m3u8
+ 
+  #EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.postimg.cc/9F6CmM1T/images-(8).png" , MONO29
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+ 
+#EXTINF:-1  group-title="Digital TV" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/mcot.png",MCOT
+https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
+ 
+#EXTINF:-1  group-title="Digital TV" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/one.png",ONE
+https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTMxNTg2MjAxMTIifQ.Pv-kHDlJaV05HiJ2AQmS3PnV2ZQg7ovszKptAGg1EN0/playlist-hls.m3u8
+
+#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/qIorZoy.png" ,Thairath TV
+https://live-us1.thaimomo.com/live-as/chthairathhd-1/chunklist_w179323289.m3u8
+ 
+#EXTINF:-1  group-title="Digital TV" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/3hd.png" ,3 HD
+https://live-us1.thaimomo.com/live-as/ch3hd-1/chunklist_w1166570417.m3u8
+ 
+#EXTINF:-1  group-title="Digital TV" tvg-logo="https://iptv36.vercel.app/logo/amarin.png",Amarin TV
+https://live-us1.thaimomo.com/live-as/chamarin-3/playlist.m3u8
+ 
+#EXTINF:-1  group-title="Digital TV" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/7hd.png",7 HD
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
+ 
+#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/GZhuLxL.png" ,PPTV HD 36
+https://live-us1.thaimomo.com/live-as/chpptv-1/chunklist_w303375461.m3u8
+
+
+#EXTINF:-1  group-title="Digital TV" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/7hd.png","CH7 HD
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
+
+
+#EXTINF:-1  group-title="Digital TV" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/mcot.png",MCOT HD
+https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/chunklist_w878254945_b2000000.m3u8
+
+
+#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.postimg.cc/9F6CmM1T/images-(8).png" , MONOsport
+https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8
+
+#EXTINF:-1  group-title="Digital TV"tvg-logo="http://channel8thailand.com/ch8-ci415-web/public/templates/ch8/img/18378709_1492777084098686_554998105_o.png",Channel 8
+https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1277808640.m3u8
+
+#EXTINF:-1 tvg-logo="https://lo1.in/tha/th1.png" group-title="Digital TV",THAIPBS HD
+http://eagleott.cc:80/live/9057533806/8719677144/96745.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/tha/thairath1.png" group-title="Digital TV",THAIRATH TV
+http://eagleott.cc:80/live/9057533806/8719677144/96748.ts 
+#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/3hd.png" group-title="Digital TV",TV 3 
+http://eagleott.cc:80/live/9057533806/8719677144/1265.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="Digital TV",TH| TV 5 
+http://eagleott.cc:80/live/9057533806/8719677144/1264.ts
+
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://iptv36.vercel.app/logo/workpoint.png" ,WorkpointTV(3BB)
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/9F6CmM1T/images-(8).png" ,MONO29 HD(3BB)
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0006.png" ,CH8(3BB)
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
+
+#EXTINF:-1 group-title="Digital TV"tvg-logo="http://channel8thailand.com/ch8-ci415-web/public/templates/ch8/img/18378709_1492777084098686_554998105_o.png",Channel 8 
+https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
